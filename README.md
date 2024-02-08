@@ -21,3 +21,5 @@ EXPO 어플리케이션 설치 후 터미널에서 순서대로 진행! QR코드
 -----------------------------------------------
 <추가 필요 모듈>
 npm install axios
+npx expo install expo-image-picker
+
